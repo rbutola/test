@@ -1,4 +1,4 @@
 int main()
 {
-printf("Something happening");
+printf(" I am master");
 }
